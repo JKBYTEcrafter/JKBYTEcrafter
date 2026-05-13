@@ -1,10 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on AI & ML Projects  
-👯 I’m looking to collaborate on Open Source & AI  
-🤝 I’m looking for help with MLOps & Scaling  
-🌱 I’m currently learning Deep Learning & LLMs  
-💬 Ask me about Python, ML & Data Science  
-⚡ Fun fact: I craft bytes 🔨  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jatin Kumar
+
+Machine Learning & Data Science Enthusiast
+------------------------------------------
+
+I am a student pursuing Bachelor of Technology in Computer Science And Engineering from Institute Of engineering and management currently in 4th year.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [JKBytecrafter](http://https://jkbytecrafter.vercel.app/)
+* ✉️  You can contact me at [jatinkumar15002@gmail.com](mailto:jatinkumar15002@gmail.com)
+* 🚀  I'm currently working on [on AI & ML Projects](http://https://jkbytecrafter.vercel.app/)
+* 🧠  I'm currently learning Deep Learning & LLMs
+* 👥  I'm looking to collaborate on Open Source & AI
+* 💬  Ask me about Fun fact: I craft bytes 🔨
 
 ---
 
