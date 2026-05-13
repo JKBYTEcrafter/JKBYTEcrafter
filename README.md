@@ -247,8 +247,6 @@ class JatinKumar:
 
 ## 🐍 GitHub Contribution Game
 
-## 🎮 Contribution Snake
+![snake gif](https://github.com/JKBYTEcrafter/JKBYTEcrafter/blob/output/github-snake-dark.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+
