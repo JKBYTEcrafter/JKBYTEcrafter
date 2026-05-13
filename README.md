@@ -21,7 +21,7 @@ I am a student pursuing Bachelor of Technology in Computer Science And Engineeri
 
 ---
 
-<img align="right" alt="Coding" width="249" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA0a2h4YmpodHZ2ODFoZGE5Njhma29udWc2ejgyOG80eWxsaXpqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRsbyaGN8Fwrx9qLTn/giphy.gif">
+<img align="right" alt="Coding" width="243" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA0a2h4YmpodHZ2ODFoZGE5Njhma29udWc2ejgyOG80eWxsaXpqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRsbyaGN8Fwrx9qLTn/giphy.gif">
 
 ```yaml
 name:        Jatin Kumar
@@ -34,7 +34,7 @@ focus:
   - Computer Vision & NLP
   - Full Stack Development
   - Research & Open Source
-interests:    photography,sports
+interests:   photography,sports
 status:      Open to opportunities ✦
 ```
 
