@@ -21,7 +21,7 @@ I am a student pursuing Bachelor of Technology in Computer Science And Engineeri
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhseTRjcG1xNmQ0Y2g5Z2FwcWl6dTFnamZiaW1uODQ0bnQ3dHNmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)">
 
 ```yaml
 name:        Jatin Kumar
