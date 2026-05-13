@@ -1,159 +1,24 @@
-<h1 align="center">Hi 👋, I'm Jatin Kumar</h1>
-<h3 align="center">🚀 ML & Data Science Enthusiast | AI Researcher | Full Stack Developer</h3>
+# 💫 About Me:
+🔭 I’m currently working on AI & ML Projects  <br>👯 I’m looking to collaborate on Open Source & AI  <br>🤝 I’m looking for help with MLOps & Scaling  <br>🌱 I’m currently learning Deep Learning & LLMs  <br>💬 Ask me about Python, ML & Data Science  <br>⚡ Fun fact: I crafts bytes 🔨
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;AI+Researcher;Python+Developer;Full+Stack+Developer;Open+Source+Contributor" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jatin__kumar_105) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-kumar-2ba94a28a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jatin_125) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinkumar15002@gmail.com) 
 
-## 🌟 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jkbytecrafter&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jkbytecrafter&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jkbytecrafter&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🎓 B.Tech CSE Student at **Institute of Engineering and Management, Kolkata**
-- 🤖 Passionate about **Machine Learning, Deep Learning & Generative AI**
-- 📊 Exploring **Data Science, Computer Vision & NLP**
-- 🧠 Research Enthusiast working on AI-powered systems
-- 🏆 7th Rank Holder in CSE Department with **CGPA 9.47**
-- 📚 Published Research Papers in AI & Computational Linguistics
-- 🚀 Love building impactful AI products and scalable applications
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jkbytecrafter&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/JKBYTEcrafter" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-<a href="https://linkedin.com/in/Jatin Kumar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="mailto:jatinkumar15002@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jkbytecrafter&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jkbytecrafter&icon=6&color=3)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack
-
-## 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
-</p>
-
-## 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
-</p>
-
-## 🤖 Machine Learning & Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSORT-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-## 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,jira,vscode" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🚁 Drone-to-Map AI System
-🔹 AI-powered geospatial mapping pipeline using **YOLOv8 + DeepSORT**  
-🔹 Real-time object tracking from drone footage  
-🔹 Interactive visualization using **Folium**  
-🔹 GPU-optimized scalable deployment with Docker
-
----
-
-## 📚 Academic Research Assistant
-🔹 Multi-agent AI research assistant using **Gemini LLM**  
-🔹 Automated literature review & proposal generation  
-🔹 Implemented **RAG Pipeline with FAISS**  
-🔹 Built using **Python + Flask**
-
----
-
-# 🏆 Achievements
-
-- 🥇 Best Session Paper Award – International Conference on English Learning and Teaching Skills
-- 📈 Academic Excellence Award – Top Rank in CSE Department
-- 📜 Multiple NPTEL Certifications in:
-  - Python Programming
-  - DSA using Java
-  - Cryptography
-  - Operating Systems
-  - OOPs
-
----
-
-# 📄 Research Publications
-
-### 🧠 Generating Images from Text Using GANs vs Transformers
-Research comparing GAN and Transformer architectures for text-to-image generation.
-
-### 📰 Septic Sentences in Hindi News Media
-Computational bias detection and annotation framework for Hindi e-newspaper analysis.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JKBYTEcrafter&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JKBYTEcrafter&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKBYTEcrafter&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JKBYTEcrafter&theme=tokyo-night"/>
-</p>
-
----
-
-# 🧠 Currently Learning
-
-- Advanced Deep Learning
-- Large Language Models (LLMs)
-- MLOps & AI Deployment
-- Generative AI Systems
-- Scalable Data Engineering
-
----
-
-# ⚡ Fun Fact
-
-```python
-while(alive):
-    eat()
-    code()
-    sleep()
-    repeat()
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JKBYTEcrafter&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<h3 align="center">⭐ Turning Ideas into Intelligent Systems ⭐</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
