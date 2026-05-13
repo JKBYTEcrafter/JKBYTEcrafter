@@ -1,6 +1,20 @@
 # 💫 About Me:
 🔭 I’m currently working on AI & ML Projects  <br>👯 I’m looking to collaborate on Open Source & AI  <br>🤝 I’m looking for help with MLOps & Scaling  <br>🌱 I’m currently learning Deep Learning & LLMs  <br>💬 Ask me about Python, ML & Data Science  <br>⚡ Fun fact: I crafts bytes 🔨
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```yaml
+name:        Jatin Kumar
+degree:      B.Tech CSE @ IEM, Kolkata
+batch:       2023 - 2027
+cgpa:        9.47 / 10
+focus:
+  - Machine Learning & Data Science
+  - Deep Learning & Generative AI
+  - Computer Vision & NLP
+  - Full Stack Development
+  - Research & Open Source
+status:      Open to opportunities ✦
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jatin__kumar_105) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-kumar-2ba94a28a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jatin_125) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinkumar15002@gmail.com) 
