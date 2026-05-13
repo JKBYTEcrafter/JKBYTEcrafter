@@ -245,4 +245,8 @@ class JatinKumar:
 
 [![](https://komarev.com/ghpvc/?username=jkbytecrafter&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/jkbytecrafter)
 
+## 🐍 GitHub Contribution Game
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
