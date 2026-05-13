@@ -245,7 +245,7 @@ class JatinKumar:
 
 [![](https://komarev.com/ghpvc/?username=jkbytecrafter&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/jkbytecrafter)
 
-## 🐍 GitHub Contribution Game
+
 
 ![snake gif](https://github.com/JKBYTEcrafter/JKBYTEcrafter/blob/output/github-snake-dark.svg)
 
