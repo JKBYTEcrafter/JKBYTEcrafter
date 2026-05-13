@@ -124,6 +124,103 @@ status:      Open to opportunities ✦
 ![](https://streak-stats.demolab.com/?user=jkbytecrafter&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jkbytecrafter&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+# 🚀 Featured Projects
+
+## 🚁 Drone-to-Map AI System
+🔹 Built an AI-powered geospatial mapping pipeline using **YOLOv8 + DeepSORT**  
+🔹 Processed drone footage for real-time urban object tracking  
+🔹 Integrated interactive visualization using **Folium**  
+🔹 Optimized deployment using Docker and GPU acceleration  
+
+---
+
+## 📚 Academic Research Assistant
+🔹 Developed a multi-agent AI research assistant using **Gemini LLM**  
+🔹 Automated literature review and research gap detection  
+🔹 Implemented a **RAG pipeline with FAISS**  
+🔹 Built full-stack integration using **Flask + Python**  
+
+---
+
+# 🏆 Achievements & Awards
+
+🥇 **Best Session Paper Award**  
+International Conference on English Learning and Teaching Skills (2024)
+
+📈 **Academic Excellence**  
+Secured **7th position** in CSE Department with **CGPA 9.47**
+
+📜 **NPTEL Certifications**
+- Fundamentals of Object Oriented Programming
+- Operating System Fundamentals
+- Python Programming
+- Data Structures & Algorithms using Java
+- Foundation of Cryptography
+
+---
+
+# 📄 Research Publications
+## 🧠 Generating Images from Text Using GANs vs Transformers
+Research paper comparing GAN and Transformer architectures for text-to-image generation presented at **IEMenTech 2025**
+---
+
+## 📰 Septic Sentences in Hindi News Media
+Computational approach for detecting bias in Hindi news articles presented at **Language Resources and Evaluation 2026**
+---
+
+# 💼 Experience
+## 🔬 IEM GenAI CoE Research Community
+📅 Dec 2025
+Worked on research initiatives in **Generative AI** and presented research work at **IEMENTECH 2024**
+
+
+---
+
+# 💻 Competitive Programming
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jkbytecrafter?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/JKByteCrafter/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jatinkumar15002)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JKByteCrafter/)
+
+</div>
+
+### ⚡ Problem Solving Profiles
+
+- 🟠 Solving DSA and algorithmic problems regularly on **LeetCode**
+- 🔵 Practicing competitive programming and contests on **Codeforces**
+- 🧠 Strong focus on:
+  - Data Structures & Algorithms
+  - Dynamic Programming
+  - Graph Algorithms
+  - Greedy Techniques
+  - Problem Solving & Optimization
+
+---
+
+# 🎯 Current Focus
+
+```python
+class JatinKumar:
+
+    def __init__(self):
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "NLP",
+            "Research"
+        ]
+
+    def current_goal(self):
+        return "Building impactful AI systems 🚀"
+```
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jkbytecrafter&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
@@ -132,4 +229,4 @@ status:      Open to opportunities ✦
 
 [![](https://komarev.com/ghpvc/?username=jkbytecrafter&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/jkbytecrafter)
 
-<!-- Proudly created with GPRM -->
+
