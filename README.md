@@ -182,7 +182,7 @@ Worked on research initiatives in **Generative AI** and presented research work 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/jkbytecrafter?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/JKByteCrafter/)
-
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jatinkumar15002&theme=dark)](https://codeforces.com/profile/jatinkumar15002)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jatinkumar15002)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JKByteCrafter/)
 
