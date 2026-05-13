@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Jatin%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%26%20Data%20Science%20Enthusiast&descAlignY=58&descSize=22" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:000814,50:001d3d,100:003566&text=Jatin%20Kumar&fontColor=38bdf8&fontSize=68&fontAlignY=48&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Research&descAlignY=72&descSize=26&animation=fadeIn"
+  />
 </p>
-
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jatin Kumar
 
