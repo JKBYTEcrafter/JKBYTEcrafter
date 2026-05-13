@@ -34,6 +34,7 @@ focus:
   - Computer Vision & NLP
   - Full Stack Development
   - Research & Open Source
+interests:    photography,sports
 status:      Open to opportunities ✦
 ```
 
