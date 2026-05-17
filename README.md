@@ -128,21 +128,159 @@ status:      Open to opportunities ✦
 
 # 🚀 Featured Projects
 
-## 🚁 Drone-to-Map AI System
-🔹 Built an AI-powered geospatial mapping pipeline using **YOLOv8 + DeepSORT**  
-🔹 Processed drone footage for real-time urban object tracking  
-🔹 Integrated interactive visualization using **Folium**  
-🔹 Optimized deployment using Docker and GPU acceleration  
+<div align="center">
 
----
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔗 SnapLink URL Shortener
+
+Production-grade distributed URL shortener with analytics, QR generation, and high-speed redirection.
+
+### ✨ Features
+- Base62 encoded short URLs
+- Real-time analytics & tracking
+- JWT Authentication
+- QR Code generation
+- Bulk URL shortening
+- Dockerized deployment
+
+### 🛠️ Tech Stack
+`FastAPI` `MongoDB` `Docker` `JWT` `Redis`
+
+<br>
+
+<a href="https://snaplink-api-o90i.onrender.com/">
+  <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JKBYTEcrafter/SnapLink">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Autonomous Data Analyst
+
+AI-powered end-to-end data science platform for EDA, AutoML, and AI-generated insights.
+
+### ✨ Features
+- Automated EDA dashboards
+- AutoML pipeline using PyCaret
+- AI business insights with Gemini
+- Chat with data using LangChain
+- PDF/HTML report generation
+
+### 🛠️ Tech Stack
+`FastAPI` `Streamlit` `PyCaret` `LangChain` `Gemini`
+
+<br>
+
+<a href="https://huggingface.co/spaces/jkbytecrafter/autonomous-data-analyst">
+  <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JKBYTEcrafter/Autonomous-Data-Analyst">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📰 Hindi News Bias Detector
+
+AI system for detecting bias in Hindi news articles using NLP and ML techniques.
+
+### ✨ Features
+- Hindi text bias classification
+- Multiple ML model implementations
+- FastAPI deployment
+- Hugging Face Spaces support
+- Docker-ready architecture
+
+### 🛠️ Tech Stack
+`FastAPI` `Scikit-learn` `Docker` `HF Spaces` `NLP`
+
+<br>
+
+<a href="https://huggingface.co/spaces/jkbytecrafter/NewsBiasDetector">
+  <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JKBYTEcrafter/NewsBiasDetection">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚁 Drone-to-Map AI System
+
+AI-powered geospatial mapping system for drone footage analysis and urban tracking.
+
+### ✨ Features
+- Real-time object detection
+- Multi-object tracking
+- Geospatial visualization
+- GPU optimized pipeline
+- Interactive Folium mapping
+
+### 🛠️ Tech Stack
+`Python` `YOLOv8` `DeepSORT` `Folium` `Docker`
+
+<br>
+
+<img src="https://img.shields.io/badge/Work_In_Progress-ff9800?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 📚 Academic Research Assistant
-🔹 Developed a multi-agent AI research assistant using **Gemini LLM**  
-🔹 Automated literature review and research gap detection  
-🔹 Implemented a **RAG pipeline with FAISS**  
-🔹 Built full-stack integration using **Flask + Python**  
+
+Multi-agent AI research assistant for automating literature review and research workflows.
+
+### ✨ Features
+- Automated literature review
+- Research gap detection
+- RAG pipeline using FAISS
+- AI-powered proposal generation
+- Full-stack research platform
+
+### 🛠️ Tech Stack
+`Python` `Flask` `Gemini LLM` `FAISS` `RAG`
+
+<br>
+
+<img src="https://img.shields.io/badge/Work_In_Progress-ff9800?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+
+<td width="50%"></td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
+
 
 # 🏆 Achievements & Awards
 
