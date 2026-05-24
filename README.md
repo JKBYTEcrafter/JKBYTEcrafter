@@ -271,7 +271,28 @@ Multi-agent AI research assistant for automating literature review and research 
 
 </td>
 
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+## 💳 Alternative Credit Intelligence Platform
+
+AI-powered alternative credit scoring platform focused on financial intelligence and behavioral risk analysis.
+
+### ✨ Features
+- Alternative credit score generation
+- Financial behavior analytics
+- Risk classification & explainability
+- ML-powered scoring engine
+- Interactive analytics dashboard
+- JWT-secured authentication
+
+### 🛠️ Tech Stack
+`FastAPI` `Next.js` `PostgreSQL` `XGBoost` `SHAP` `TailwindCSS`
+
+<br>
+
+<img src="https://img.shields.io/badge/Work_In_Progress-ff9800?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
 
 </tr>
 
