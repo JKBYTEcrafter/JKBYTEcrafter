@@ -297,11 +297,11 @@ AI-powered fintech platform for alternative credit scoring, fraud detection, and
 
 <br>
 
-<a href="#">
+<a href="https://alternative-credit-website.vercel.app/">
   <img src="https://img.shields.io/badge/View_Project-ff9800?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://github.com/JKBYTEcrafter/Informal-Credit-Scoring">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
