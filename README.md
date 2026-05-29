@@ -251,46 +251,59 @@ AI-powered geospatial mapping system for drone footage analysis and urban tracki
 
 <td width="50%" valign="top">
 
-## 📚 Academic Research Assistant
+## 🧠 Academic Research Agent
 
-Multi-agent AI research assistant for automating literature review and research workflows.
+AI-powered multi-agent platform that automates academic research proposal generation using LangGraph and Gemini.
 
 ### ✨ Features
-- Automated literature review
-- Research gap detection
-- RAG pipeline using FAISS
-- AI-powered proposal generation
-- Full-stack research platform
+- 9 specialized AI research agents
+- Full proposal generation pipeline
+- Research gap identification
+- RAG-powered methodology generation
+- Funding alignment analysis
+- Export proposals as Markdown
 
 ### 🛠️ Tech Stack
-`Python` `Flask` `Gemini LLM` `FAISS` `RAG`
+`LangGraph` `Gemini 2.5 Flash` `FAISS` `Flask` `React` `TailwindCSS`
 
 <br>
 
-<img src="https://img.shields.io/badge/Work_In_Progress-ff9800?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://academic-research-agent.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JKBYTEcrafter/Academic-Research-Agent">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💳 Alternative Credit Intelligence Platform
+## 💳 Alternative Credit Intelligence
 
-AI-powered alternative credit scoring platform focused on financial intelligence and behavioral risk analysis.
+AI-powered fintech platform for alternative credit scoring, fraud detection, and financial health intelligence.
 
 ### ✨ Features
-- Alternative credit score generation
-- Financial behavior analytics
-- Risk classification & explainability
-- ML-powered scoring engine
-- Interactive analytics dashboard
-- JWT-secured authentication
+- Alternative credit scoring (300–900)
+- Fraud risk detection engine
+- SHAP explainability dashboard
+- Behavioral spender profiling
+- Personalized financial recommendations
+- AI-generated financial narratives
 
 ### 🛠️ Tech Stack
-`FastAPI` `Next.js` `PostgreSQL` `XGBoost` `SHAP` `TailwindCSS`
+`FastAPI` `Next.js` `PostgreSQL` `XGBoost` `LightGBM` `SHAP`
 
 <br>
 
-<img src="https://img.shields.io/badge/Work_In_Progress-ff9800?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/View_Project-ff9800?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
