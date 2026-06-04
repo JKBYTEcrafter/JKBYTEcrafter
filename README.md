@@ -12,9 +12,9 @@
 I am a student pursuing Bachelor of Technology in Computer Science And Engineering from Institute Of engineering and management currently in 4th year.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [JKBytecrafter](http://https://jkbytecrafter.vercel.app/)
+* 🖥️  See my portfolio at [JKBytecrafter](https://jkbytecrafter.vercel.app/)
 * ✉️  You can contact me at [jatinkumar15002@gmail.com](mailto:jatinkumar15002@gmail.com)
-* 🚀  I'm currently working on [on AI & ML Projects](http://https://jkbytecrafter.vercel.app/)
+* 🚀  I'm currently working on [on AI & ML Projects](https://jkbytecrafter.vercel.app/)
 * 🧠  I'm currently learning Deep Learning & LLMs
 * 👥  I'm looking to collaborate on Open Source & AI
 * 💬  Ask me about Fun fact: I craft bytes 🔨
