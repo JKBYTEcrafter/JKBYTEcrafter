@@ -420,6 +420,4 @@ class JatinKumar:
 
 
 
-![snake gif](https://github.com/JKBYTEcrafter/JKBYTEcrafter/blob/output/github-snake-dark.svg)
-
-
+![snake gif](https://github.com/jkbytecrafter/jkbytecrafter/blob/output/github-snake-dark.svg)
