@@ -1,4 +1,4 @@
-<p align="center">
+<img width="358" height="358" alt="image" src="https://github.com/user-attachments/assets/51d67013-a02d-44f1-8f3a-5bbb34e7e2ad" /><p align="center">
   <img width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Jatin%20Kumar&fontColor=00e5ff&fontSize=72&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Research&descAlignY=65&descSize=28&animation=fadeIn"
   />
@@ -12,7 +12,7 @@
 I am a student pursuing Bachelor of Technology in Computer Science And Engineering from Institute Of engineering and management currently in 4th year.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [JKBytecrafter](https://jkbytecrafter.vercel.app/)
+* 🖥️  See my portfolio at [jkbytecrafter](https://jkbytecrafter.vercel.app/)
 * ✉️  You can contact me at [jatinkumar15002@gmail.com](mailto:jatinkumar15002@gmail.com)
 * 🚀  I'm currently working on [on AI & ML Projects](https://jkbytecrafter.vercel.app/)
 * 🧠  I'm currently learning Deep Learning & LLMs
@@ -157,7 +157,7 @@ Production-grade distributed URL shortener with analytics, QR generation, and hi
   <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/JKBYTEcrafter/SnapLink">
+<a href="https://github.com/jkbytecrafter/SnapLink">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -185,7 +185,7 @@ AI-powered end-to-end data science platform for EDA, AutoML, and AI-generated in
   <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </a>
 
-<a href="https://github.com/JKBYTEcrafter/Autonomous-Data-Analyst">
+<a href="https://github.com/jkbytecrafter/Autonomous-Data-Analyst">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -217,7 +217,7 @@ AI system for detecting bias in Hindi news articles using NLP and ML techniques.
   <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </a>
 
-<a href="https://github.com/JKBYTEcrafter/NewsBiasDetection">
+<a href="https://github.com/jkbytecrafter/NewsBiasDetection">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -272,7 +272,7 @@ AI-powered multi-agent platform that automates academic research proposal genera
   <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/JKBYTEcrafter/Academic-Research-Agent">
+<a href="https://github.com/jkbytecrafter/Academic-Research-Agent">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -301,7 +301,7 @@ AI-powered fintech platform for alternative credit scoring, fraud detection, and
   <img src="https://img.shields.io/badge/View_Project-ff9800?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/JKBYTEcrafter/Informal-Credit-Scoring">
+<a href="https://github.com/jkbytecrafter/Informal-Credit-Scoring">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -373,7 +373,7 @@ Worked on research initiatives in **Generative AI** and presented research work 
 <br>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jatinkumar15002)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jkbytecrafter)
 
 </div>
 
