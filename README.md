@@ -1,4 +1,3 @@
-<img width="358" height="358" alt="image" src="https://github.com/user-attachments/assets/51d67013-a02d-44f1-8f3a-5bbb34e7e2ad" /><p align="center">
   <img width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Jatin%20Kumar&fontColor=00e5ff&fontSize=72&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Research&descAlignY=65&descSize=28&animation=fadeIn"
   />
