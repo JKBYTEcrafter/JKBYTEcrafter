@@ -328,8 +328,13 @@ Privacy-first audio editing platform powered by FFmpeg with no login, database, 
 `React` `TypeScript` `FastAPI` `FFmpeg` `WaveSurfer.js`
 
 <br>
+<a href="https://decicut.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Work_In_Progress-ff9800?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/jkbytecrafter/DeciCut">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
