@@ -308,6 +308,35 @@ AI-powered fintech platform for alternative credit scoring, fraud detection, and
 
 </tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎵 DeciCut Audio Editor
+
+Privacy-first audio editing platform powered by FFmpeg with no login, database, or file history.
+
+### ✨ Features
+- Audio trimming & waveform editing
+- Multi-format support (MP3, WAV, FLAC, AAC)
+- Merge, split & extract clips
+- Speed, pitch & volume controls
+- Silence removal & audio normalization
+- ZIP export & automatic file cleanup
+
+### 🛠️ Tech Stack
+`React` `TypeScript` `FastAPI` `FFmpeg` `WaveSurfer.js`
+
+<br>
+
+<img src="https://img.shields.io/badge/Work_In_Progress-ff9800?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+
+<td width="50%"></td>
+
+</tr>
+
 </table>
 
 </div>
