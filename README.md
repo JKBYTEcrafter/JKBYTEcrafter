@@ -26,7 +26,7 @@ I am a student pursuing Bachelor of Technology in Computer Science And Engineeri
 name:        Jatin Kumar
 degree:      B.Tech CSE @ IEM, Kolkata
 batch:       2023 - 2027
-cgpa:        9.47 / 10
+cgpa:        9.42 / 10
 focus:
   - Machine Learning & Data Science
   - Deep Learning & Generative AI
