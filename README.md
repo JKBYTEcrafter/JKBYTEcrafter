@@ -45,6 +45,7 @@ status:      Open to opportunities ✦
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinkumar15002@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jkbytecrafter)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/jkbytecrafter/spaces)
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/jkbytecrafter)
 
 # ⬡ Stack
 
