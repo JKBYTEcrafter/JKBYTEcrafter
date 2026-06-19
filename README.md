@@ -43,6 +43,8 @@ status:      Open to opportunities ✦
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-kumar-2ba94a28a)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jkbytecrafter)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinkumar15002@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jkbytecrafter)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/jkbytecrafter/spaces)
 
 # ⬡ Stack
 
@@ -347,6 +349,7 @@ Privacy-first audio editing platform powered by FFmpeg with no login, database, 
 </div>
 
 ---
+
 
 
 # 🏆 Achievements & Awards
