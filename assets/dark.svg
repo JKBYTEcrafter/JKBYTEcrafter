@@ -132,21 +132,7 @@ values="0"/>
 
 </filter>
 
-<filter id="asciiGlow">
 
-    <feGaussianBlur
-        stdDeviation="2.5"
-        result="blur"/>
-
-    <feMerge>
-
-        <feMergeNode in="blur"/>
-
-        <feMergeNode in="SourceGraphic"/>
-
-    </feMerge>
-
-</filter>
 
   <filter id="asciiGlow">
 
@@ -163,7 +149,12 @@ values="0"/>
     </feMerge>
 
 </filter>
-  
+    <linearGradient id="asciiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    
 </defs>
 
 <!-- ===========================
@@ -270,134 +261,135 @@ stroke="#293548"/>
 
 <g id="asciiWindow">
 
-  <!-- Floating animation -->
-  <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0;0 -4;0 0;0 4;0 0"
-      dur="8s"
-      repeatCount="indefinite"/>
+    <!-- Floating Animation -->
+    <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -4;0 0;0 4;0 0"
+        dur="8s"
+        repeatCount="indefinite"/>
 
-  <!-- Window -->
-  <rect
-      x="70"
-      y="70"
-      width="350"
-      height="470"
-      rx="18"
-      fill="#071018"
-      stroke="#22D3EE"
-      stroke-opacity=".25"/>
+    <!-- Window -->
+    <rect
+        x="70"
+        y="70"
+        width="350"
+        height="470"
+        rx="18"
+        fill="#071018"
+        stroke="#22D3EE"
+        stroke-opacity=".25"/>
 
-  <!-- Top Bar -->
-  <rect
-      x="70"
-      y="70"
-      width="350"
-      height="38"
-      rx="18"
-      fill="#0B1624"/>
+    <!-- Top Bar -->
+    <rect
+        x="70"
+        y="70"
+        width="350"
+        height="38"
+        rx="18"
+        fill="#0B1624"/>
 
-  <!-- Window Buttons -->
+    <!-- Window Buttons -->
+    <circle cx="92" cy="89" r="5" fill="#FF5F56"/>
+    <circle cx="110" cy="89" r="5" fill="#FFBD2E"/>
+    <circle cx="128" cy="89" r="5" fill="#27C93F"/>
 
-  <circle cx="92" cy="89" r="5" fill="#FF5F56"/>
-  <circle cx="110" cy="89" r="5" fill="#FFBD2E"/>
-  <circle cx="128" cy="89" r="5" fill="#27C93F"/>
-
-  <!-- Terminal Title -->
-
-  <text
-      x="245"
-      y="93"
-      text-anchor="middle"
-      fill="#94A3B8"
-      font-size="13"
-      font-family="JetBrains Mono, monospace">
-
-      ascii@jkbytecrafter
-    <!-- ========================================= -->
-<!-- Terminal Boot                             -->
-<!-- ========================================= -->
-
-<text
-    x="90"
-    y="135"
-    font-family="JetBrains Mono, monospace"
-    font-size="12"
-    fill="#22D3EE">
-
-<tspan x="90" dy="0">
-$ initializing profile...
-<animate attributeName="opacity"
-values="0;1"
-dur=".5s"
-fill="freeze"/>
-</tspan>
-
-<tspan x="90" dy="20">
-loading ascii engine...
-<animate attributeName="opacity"
-begin=".6s"
-values="0;1"
-dur=".4s"
-fill="freeze"/>
-</tspan>
-
-<tspan x="90" dy="20">
-rendering portrait...
-<animate attributeName="opacity"
-begin="1.2s"
-values="0;1"
-dur=".4s"
-fill="freeze"/>
-</tspan>
-
-<tspan x="90" dy="20">
-status : ready ✓
-<animate attributeName="opacity"
-begin="1.8s"
-values="0;1"
-dur=".4s"
-fill="freeze"/>
-</tspan>
-
-</text>
+    <!-- Terminal Title -->
     <text
-x="200"
-y="195"
-font-family="JetBrains Mono"
-font-size="14"
-fill="#22D3EE">
+        x="245"
+        y="93"
+        text-anchor="middle"
+        fill="#94A3B8"
+        font-size="13"
+        font-family="JetBrains Mono, monospace">
+        
+    </text>
+<text>
+ascii@jkbytecrafter
+</text>    
 
-█
 
-<animate
-attributeName="opacity"
-values="1;0;1"
-dur=".8s"
-repeatCount="indefinite"/>
-
-</text>
-
+    <!-- Boot Sequence -->
     <text
-id="asciiPortrait"
-x="92"
-y="235"
-font-family="JetBrains Mono"
-font-size="5.4"
-xml:space="preserve"
-fill="url(#asciiGradient)"
-filter="url(#asciiGlow)">
+        x="90"
+        y="135"
+        font-family="JetBrains Mono, monospace"
+        font-size="12"
+        fill="#22D3EE">
 
-<tspan x="92" dy="0">██████████████████████████████</tspan>
-<tspan x="92" dy="6">██████████████████████████████</tspan>
-<tspan x="92" dy="6">██████████████████████████████</tspan>
-<tspan x="92" dy="6">██████████████████████████████</tspan>
-<tspan x="92" dy="6">██████████████████████████████</tspan>
+        <tspan x="90" dy="0">
+            $ initializing profile...
+            <animate attributeName="opacity"
+                     values="0;1"
+                     dur=".5s"
+                     fill="freeze"/>
+        </tspan>
 
-</text>
+        <tspan x="90" dy="20">
+            loading ascii engine...
+            <animate attributeName="opacity"
+                     begin=".6s"
+                     values="0;1"
+                     dur=".4s"
+                     fill="freeze"/>
+        </tspan>
 
-  </text>
+        <tspan x="90" dy="20">
+            rendering portrait...
+            <animate attributeName="opacity"
+                     begin="1.2s"
+                     values="0;1"
+                     dur=".4s"
+                     fill="freeze"/>
+        </tspan>
+
+        <tspan x="90" dy="20">
+            status : ready ✓
+            <animate attributeName="opacity"
+                     begin="1.8s"
+                     values="0;1"
+                     dur=".4s"
+                     fill="freeze"/>
+        </tspan>
+
+    </text>
+
+    <!-- Blinking Cursor -->
+    <text
+        x="200"
+        y="215"
+        font-family="JetBrains Mono"
+        font-size="14"
+        fill="#22D3EE">
+
+        █
+
+        <animate
+            attributeName="opacity"
+            values="1;0;1"
+            dur=".8s"
+            repeatCount="indefinite"/>
+
+    </text>
+
+    <!-- ASCII Portrait -->
+    <text
+        id="asciiPortrait"
+        x="92"
+        y="255"
+        font-family="JetBrains Mono"
+        font-size="5.4"
+        xml:space="preserve"
+        fill="url(#asciiGradient)"
+        filter="url(#asciiGlow)">
+
+        <tspan x="92" dy="0">██████████████████████████████</tspan>
+        <tspan x="92" dy="6">██████████████████████████████</tspan>
+        <tspan x="92" dy="6">██████████████████████████████</tspan>
+        <tspan x="92" dy="6">██████████████████████████████</tspan>
+        <tspan x="92" dy="6">██████████████████████████████</tspan>
+
+    </text>
 
 </g>
   
@@ -479,7 +471,7 @@ opacity=".55">
 
 <animate
 
-attributeName="stroke-dasharray"
+attributeName="stroke-dashoffset"
 
 values="0,4000;500,3500;0,4000"
 
