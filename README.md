@@ -10,10 +10,7 @@
 
 # **Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jatin Kumar**
 
-## **Machine Learning & Data Science Enthusiast**
-------------------------------------------
-
-I am a student pursuing Bachelor of Technology in Computer Science And Engineering from Institute Of engineering and management currently in 4th year.
+I am a student pursuing Bachelor of Technology in Computer Science And Engineering from Institute Of engineering and management currently in 4th year. I am a **Machine Learning & Data Science Enthusiast**
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [jkbytecrafter](https://jkbytecrafter.vercel.app/)
