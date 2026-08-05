@@ -497,6 +497,137 @@ fill-opacity=".60"
 
 stroke="#293548"/>
 
+<!-- ========================================= -->
+<!--            RIGHT PANEL CONTENT            -->
+<!-- ========================================= -->
+
+<text
+    x="520"
+    y="110"
+    font-family="JetBrains Mono, monospace"
+    fill="#22D3EE">
+
+    <!-- Heading -->
+    <tspan
+        x="520"
+        dy="0"
+        font-size="34"
+        font-weight="700">
+        Jatin Kumar
+    </tspan>
+
+    <tspan
+        x="520"
+        dy="38"
+        font-size="18"
+        fill="#7DD3FC">
+        AI • ML • Data Science
+    </tspan>
+
+    <!-- Divider -->
+    <tspan
+        x="520"
+        dy="32"
+        font-size="14"
+        fill="#475569">
+        ────────────────────────────────
+    </tspan>
+
+    <!-- About -->
+    <tspan
+        x="520"
+        dy="30"
+        font-size="16"
+        fill="#E2E8F0">
+        🎓 B.Tech CSE
+    </tspan>
+
+    <tspan
+        x="540"
+        dy="24"
+        font-size="14"
+        fill="#94A3B8">
+        Institute of Engineering &amp; Management
+    </tspan>
+
+    <tspan
+        x="520"
+        dy="34"
+        font-size="16"
+        fill="#E2E8F0">
+        📍 Kolkata, India
+    </tspan>
+
+    <!-- Skills -->
+    <tspan
+        x="520"
+        dy="40"
+        font-size="18"
+        fill="#22D3EE">
+        Focus
+    </tspan>
+
+    <tspan x="540" dy="28" font-size="15" fill="#CBD5E1">
+        • Machine Learning
+    </tspan>
+
+    <tspan x="540" dy="24" font-size="15" fill="#CBD5E1">
+        • Deep Learning
+    </tspan>
+
+    <tspan x="540" dy="24" font-size="15" fill="#CBD5E1">
+        • Computer Vision
+    </tspan>
+
+    <tspan x="540" dy="24" font-size="15" fill="#CBD5E1">
+        • Generative AI
+    </tspan>
+
+    <!-- Highlights -->
+    <tspan
+        x="520"
+        dy="42"
+        font-size="18"
+        fill="#22D3EE">
+        Highlights
+    </tspan>
+
+    <tspan x="540" dy="28" font-size="15" fill="#CBD5E1">
+        ✓ 9.42 CGPA
+    </tspan>
+
+    <tspan x="540" dy="24" font-size="15" fill="#CBD5E1">
+        ✓ Research Publications
+    </tspan>
+
+    <tspan x="540" dy="24" font-size="15" fill="#CBD5E1">
+        ✓ Open Source Contributor
+    </tspan>
+
+    <tspan x="540" dy="24" font-size="15" fill="#CBD5E1">
+        ✓ AI Projects
+    </tspan>
+
+    <!-- Status -->
+    <tspan
+        x="520"
+        dy="42"
+        font-size="18"
+        fill="#10B981">
+        Status
+    </tspan>
+
+    <tspan
+        x="540"
+        dy="28"
+        font-size="15"
+        fill="#E2E8F0">
+        Building Impactful AI Systems
+    </tspan>
+
+</text>
+
+    
 <!-- ===========================
      DIVIDER
 =========================== -->
