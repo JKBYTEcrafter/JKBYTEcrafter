@@ -1,3 +1,13 @@
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img width="100%" src="assets/dark.svg">
+</picture>
+
+</p>
+  
   <img width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Jatin%20Kumar&fontColor=00e5ff&fontSize=72&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Research&descAlignY=65&descSize=28&animation=fadeIn"
   />
